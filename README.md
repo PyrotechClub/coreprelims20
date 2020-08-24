@@ -17,7 +17,7 @@ If having any troubles with setting it up, please feel free to contact me on nam
 
 #### Audio - The audio used for the commercial was also produced inhouse
 
-#### 3d Pitch - the 3d modal of the pitch has been also made using blender without any external sourcing.
+#### 3d Pitch - the 3d model of the pitch has been also made using blender without any external sourcing.
 
 
 
