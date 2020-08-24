@@ -446,10 +446,6 @@ input[type="submit"]:hover {
     cursor: pointer;
 }
 
-.flip-card-back h1{
-    font-size: 15px;
-    padding: 15px;
-}
 .teams-pics img:hover,
 .teams-pics img.active {
     filter: none;
@@ -547,6 +543,11 @@ input[type="submit"]:hover {
     color: white;
     border-radius: 50%;
     transform: rotateY(180deg);
+    padding-top: 50px;
+}
+
+.flip-card-back h1 {
+    font-size: 15px;
 }
 
 .player img {
