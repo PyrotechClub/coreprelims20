@@ -1,5 +1,6 @@
 # coreprelims20
 Prelim Entry for Creative Event at Core 20 [dps dwarka]
+The website can be viewed at https://coreprelims20.herokuapp.com
 
 ## Website for Gokuldham Premiere League 4
 
